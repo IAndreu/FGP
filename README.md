@@ -9,7 +9,7 @@ These instructions will get you a copy of all the scripts and how to running on 
 
 ### Prerequisites
 
-First to have a copy of the scripts click on clone/download.
+First, to have a copy of the scripts, click on clone/download.
 
 ### Installing
 
