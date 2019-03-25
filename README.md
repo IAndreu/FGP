@@ -26,7 +26,7 @@ https://ampl.com/try-ampl/start/
 ```
 
 
-### Running the models
+## Running the models
 
 Once the previous steps are done, to run a particular model you will have to introduce the model.mod and the model.dat scripts by typing the commands:
 
