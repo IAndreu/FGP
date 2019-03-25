@@ -1,0 +1,10 @@
+param n := 2;
+param s:=
+1 "ctatgca"
+2 "cgatgt";
+
+param match:= 2;
+param mismatch:=-1;
+param gap:= -4;
+param ge:= -0.5;
+

@@ -1,0 +1,9 @@
+param n := 3;
+param s:=
+1 "ctatgca"
+2 "cgaa"
+3 "ccgat";
+
+param match:= 2;
+param mismatch:=-1;
+param gap:= -1;
